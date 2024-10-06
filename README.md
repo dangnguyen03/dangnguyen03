@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Đăng</h1>
-<h3 align="center">A 3rd year Computer Netword & Communication Engineering from Vietnam</h3>
+<h3 align="center">A final-year  year Computer Netword & Communication Engineering from Vietnam</h3>
 
 <p>I am on my way towards my goal of becoming a DevOps engineer.</p>
 
